@@ -20,7 +20,6 @@ class TestTestl2():
   
   def test_testl2(self):
     self.driver.get("http://localhost/addressbook/")
-    self.driver.set_window_size(974, 1040)
     self.driver.find_element(By.NAME, "user").click()
     self.driver.find_element(By.NAME, "user").send_keys("admin")
     self.driver.find_element(By.NAME, "pass").click()
@@ -31,9 +30,9 @@ class TestTestl2():
     self.driver.find_element(By.NAME, "group_name").click()
     self.driver.find_element(By.NAME, "group_name").send_keys("group")
     self.driver.find_element(By.NAME, "group_header").click()
-    self.driver.find_element(By.NAME, "group_header").send_keys("group header")
+    self.driver.find_element(By.NAME, "group_header").send_keys("gh")
     self.driver.find_element(By.NAME, "group_footer").click()
-    self.driver.find_element(By.NAME, "group_footer").send_keys("group footer")
+    self.driver.find_element(By.NAME, "group_footer").send_keys("gf")
     self.driver.find_element(By.NAME, "submit").click()
     self.driver.find_element(By.LINK_TEXT, "group page").click()
     self.driver.find_element(By.LINK_TEXT, "Logout").click()
