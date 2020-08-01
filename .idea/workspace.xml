@@ -14,7 +14,7 @@
   <component name="ProjectId" id="1fPst0uEcIfNZAwvnTBkx1OqFMv" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -33,7 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_testl2.TestTestl2">
+  <component name="RunManager" selected="Python.test_add_group">
     <configuration name="test_add_group" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_coursehunter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,10 +117,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_add_group" />
         <item itemvalue="Python tests.pytest for test_testl2.TestTestl2" />
         <item itemvalue="Python tests.pytest for test_testl2.TestTestl2.test_testl2" />
         <item itemvalue="Python tests.pytest in test_testl2.py" />
-        <item itemvalue="Python.test_add_group" />
         <item itemvalue="Python tests.pytest in test_add_group_2.py" />
       </list>
     </recent_temporary>
