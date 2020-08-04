@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from group import Group
+from model.group import Group
 
 class Test_add_group():
   def setup_method(self, method):
