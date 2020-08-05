@@ -25,3 +25,12 @@ class GroupHelper:
 
     def return_to_groups_page(self):
         self.app.driver.find_element(By.LINK_TEXT, "group page").click()
+
+    def delete_first_group(self):
+        # init group creation
+        self.open_groups_page()
+        # select first group
+        self.app.driver.find_element(By.NAME, "selected[]").click()
+        # submit deletion
+        self.app.driver.find_element(By.NAME, "delete").click()
+        self.return_to_groups_page()
