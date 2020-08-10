@@ -35,4 +35,3 @@ class TestTestl2():
     self.driver.find_element(By.LINK_TEXT, "group page").click()
     #logout
     self.driver.find_element(By.LINK_TEXT, "Logout").click()
-  
