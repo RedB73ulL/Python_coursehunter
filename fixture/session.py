@@ -25,7 +25,7 @@ class SessionHelper:
         # return len(self.app.driver.find_element(By.LINK_TEXT, "Logout")) > 0 #- аналогичное но не работает, еще работает с try/exception
 
     def is_logged_in_as(self, username):
-        return self.app.driver.find_element(By.XPATH, "//div/div[1]/form/b") == "("+username+")"
+        return self.app.driver.find_element(By.XPATH, "//div/div[1]/form/b") == "(%s)" % username
 
     def ensure_login(self, username, password):
         if self.is_logged_in():
