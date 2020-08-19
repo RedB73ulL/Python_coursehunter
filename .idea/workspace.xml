@@ -20,23 +20,23 @@
   </component>
   <component name="ProjectId" id="1fPst0uEcIfNZAwvnTBkx1OqFMv" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fixture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/old" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\fixture" />
-      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\model" />
-      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\old" />
-      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\test" />
-      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\old" />
       <recent name="D:\Testing\CH_Python_rep\Python_coursehunter" />
       <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\test" />
       <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\fixture" />
       <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\old" />
+      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\fixture" />
+      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\model" />
+      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter\test" />
+      <recent name="D:\Testing\CH_Python_rep\Python_coursehunter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_phones.py">
+  <component name="RunManager" selected="Python tests.pytest in test_add_group_lesson_25.py">
     <configuration name="contact" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_coursehunter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,22 +88,22 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_phones.test_phones_on_home_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_add_group_lesson_12_1_1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_coursehunter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/old" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_phones.test_phones_on_home_page&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/old/test_add_group_lesson_12_1_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_add_group_lesson_25.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_coursehunter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +114,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_add_group_lesson_25.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_add_group_lesson_25.py" />
+        <item itemvalue="Python tests.pytest in test_add_group_lesson_12_1_1.py" />
         <item itemvalue="Python tests.pytest in test_phones.py" />
         <item itemvalue="Python.contact" />
         <item itemvalue="Python tests.pytest for test_phones.test_phones_on_contact_view_page" />
-        <item itemvalue="Python tests.pytest for test_phones.test_phones_on_home_page" />
-        <item itemvalue="Python tests.pytest in test" />
       </list>
     </recent_temporary>
   </component>
