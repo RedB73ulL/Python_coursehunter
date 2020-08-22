@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_del_group_lesson_21.py">
+  <component name="RunManager" selected="Python tests.pytest in test_add_group_lesson_25.py">
     <configuration name="pytest in test_add_group_class_parameters.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_coursehunter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,10 +136,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_add_group_lesson_25.py" />
         <item itemvalue="Python tests.pytest in test_del_group_lesson_21.py" />
         <item itemvalue="Python tests.pytest in test_phones.py" />
         <item itemvalue="Python tests.pytest in test_add_group.py" />
-        <item itemvalue="Python tests.pytest in test_add_group_lesson_25.py" />
         <item itemvalue="Python tests.pytest in test_add_group_class_parameters.py" />
       </list>
     </recent_temporary>
