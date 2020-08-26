@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.check_db_connection">
+  <component name="RunManager" selected="Python tests.pytest in test_db_matches_ui.py">
     <configuration name="check_db_connection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_coursehunter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,6 +109,21 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_db_matches_ui.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_coursehunter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_db_matches_ui.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in test_del_group_lesson_21.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_coursehunter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,35 +139,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_phones.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Python_coursehunter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_phones.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.group" />
+      <item itemvalue="Python.check_db_connection" />
       <item itemvalue="Python tests.pytest in test_add_group_lesson_32.py" />
       <item itemvalue="Python tests.pytest in test_del_group_lesson_21.py" />
-      <item itemvalue="Python tests.pytest in test_phones.py" />
-      <item itemvalue="Python.check_db_connection" />
+      <item itemvalue="Python tests.pytest in test_db_matches_ui.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_db_matches_ui.py" />
         <item itemvalue="Python.check_db_connection" />
         <item itemvalue="Python tests.pytest in test_add_group_lesson_32.py" />
         <item itemvalue="Python.group" />
         <item itemvalue="Python tests.pytest in test_del_group_lesson_21.py" />
-        <item itemvalue="Python tests.pytest in test_phones.py" />
       </list>
     </recent_temporary>
   </component>
