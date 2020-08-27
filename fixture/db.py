@@ -8,6 +8,8 @@ class DbFixture:
         self.user = user
         self.password = password
         self.connection = mysql.connector.connect(host=host, database=name, user=user, password=password)
+        # 36 отключаем кеширование в БД, чтобы не падал тест на проверку списков
+        self.connection.autocommit = True
 
 # 35
     def get_group_list(self):
