@@ -41,10 +41,17 @@ def stop(request):
   request.addfinalizer(fin)
   return fixture
 
+#37
+@pytest.fixture
+def check_ui(request):
+  return request.config.getoption("--check_ui")
+
 # функция для добавления собственных параметров запуска тестов
 def pytest_addoption(parser):
   parser.addoption("--browser", action="store", default="chrome")
   parser.addoption("--target", action="store", default="target.json")
+  #37
+  parser.addoption("--check_ui", action="store_true") #store_true - если функция присутствует то тру
 
 # 31
 def pytest_generate_tests(metafunc):
